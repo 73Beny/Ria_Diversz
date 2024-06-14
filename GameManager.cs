@@ -25,7 +25,7 @@ public class GameManager : MonoBehaviour
 
     public void gameOver()
     {
-        //gameOverUI.SetActive(true);
+        gameOverUI.SetActive(true);
     }
 
     public void restart()
